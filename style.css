@@ -144,8 +144,11 @@ html {
 
 button
 {
-    width: 200px;
-    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 174px;
+   
     height: 200px;
 }
 .playerChoice,
